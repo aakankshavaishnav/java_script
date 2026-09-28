@@ -1,0 +1,25 @@
+# # 1
+# marks = 200
+# marks += 35
+# print(marks)  # 235
+
+# # 2
+# balance = 5000
+# balance += 1200
+# print(balance)  # 6200
+
+# # 3
+# battery = 45
+# battery += 30
+# print(battery)  # 75
+
+# # 4
+# score = 1250
+# score += 375
+# print(score)  # 1625
+
+# # 5
+# books = 840
+# books += 160
+# print(books)  # 1000
+
