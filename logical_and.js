@@ -16,13 +16,48 @@
 
 // console.log(0|| null || undefined || "" || NaN || false  || [] )
 // show signup button if usser is not only loged 
-let isSignup = true;
-let isAlreadyuser = false;
-console.log('isAlreadyuser', isInactive) // false
+// let isSignup = true;
+// let isAlreadyuser = false;
+// console.log('isAlreadyuser', isInactive) // false
 
 // let isSignup=true;
 // let isAlreadyser=false;
 // let is
+// console.log(1+1+"1")
 
-console.log(1+1+"1")
- 
+// let x=30;
+// let y=--x;
+// console.log(y,x)
+
+// let lives=3;
+// lives--
+// console.log(lives)
+
+// let name="alice"
+// let age=45;
+// console.log(typeof(age))
+
+
+// // Basic types
+// console.log(typeof 123);         // "number"
+// console.log(typeof "hello");     // "string"
+// console.log(typeof true);        // "boolean"
+// console.log(typeof undefined);   // "undefined"
+
+// // Known quirk: typeof null is "object" (historical bug)
+// console.log(typeof null);        // "object"
+
+// // Objects and arrays both show as "object"
+// console.log(typeof {});          // "object"
+// console.log(typeof []);          // "object"
+
+// // Functions show as "function"
+// console.log(typeof function(){});// "function"
+
+// // NaN and Infinity are still numbers
+// console.log(typeof NaN);         // "number"
+// console.log(typeof Infinity);    // "number"
+
+console.log(2-"2")
+console.log(2*"2")
+console.log("2">="2")
