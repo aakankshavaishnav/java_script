@@ -53,5 +53,5 @@
 // console.log(uploeadLimit)
 // question=9
 
-console.log(Number(true))
+// console.log(Number(true))
 

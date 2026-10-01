@@ -1,26 +1,26 @@
-// //
+//
 
-// //divide and assign
-// // let x= 25;
-// // let y=5
-// // x = x/y
-// // console.log(x)
-// //2
-// // let workhour = 35;
-// // let worker = 7
-// // x = workhour/worker
-// // console.log(x)
-// // let dataPack=100;
-// // let familyMember=4
-// // x= dataPack/familyMember
-// // console.log( ` the data pack for per person is ${x}GB`)
+//divide and assign
+// let x= 25;
+// let y=5
+// x = x/y
+// console.log(x)
+//2
+// let workhour = 35;
+// let worker = 7
+// x = workhour/worker
+// console.log(x)
+// let dataPack=100;
+// let familyMember=4
+// x= dataPack/familyMember
+// console.log( ` the data pack for per person is ${x}GB`)
 
-// let totalSong=17;
-// totalSong %=5;
-// console.log(totalSong)
+let totalSong=17;
+totalSong %=5;
+console.log(totalSong)
 
-// // 1. Simple Assignment =
-// // Write a JavaScript program for each:
+// 1. Simple Assignment =
+// Write a JavaScript program for each:
 
 // // Store your age in a variable age and print it.
 // // Store the price of a pen (₹15) in a variable penPrice and print it.
@@ -31,21 +31,21 @@
 // let age = 17;
 // console.log(age);
 
-// // 2. Store the price of a pen
-// let penPrice = 15;
-// console.log(penPrice);
+// 2. Store the price of a pen
+let penPrice = 15;
+console.log(penPrice);
 
-// // 3. Store the number of days in a week
-// let daysInWeek = 7;
-// console.log(daysInWeek);
+// 3. Store the number of days in a week
+let daysInWeek = 7;
+console.log(daysInWeek);
 
-// // 4. Store your city name
-// let city = "Lucknow";
-// console.log(city);
+// 4. Store your city name
+let city = "Lucknow";
+console.log(city);
 
-// // 5. Store the value of PI
-// let piValue = 3.14159;
-// console.log(piValue);
+// 5. Store the value of PI
+let piValue = 3.14159;
+console.log(piValue);
 
 
 
@@ -56,32 +56,32 @@
 // // A savings account has ₹5,000. ₹1,200 is deposited. Use += to update the balance and print it.
 // // A phone battery is at 45%. It gets charged by 30%. Use += to update the battery percentage and print it.
 // // A game player has 1,250 points. He earns 375 more points. Use += to update the score and print it.
-// // A library has 840 books. 160 new books are added. Use += to update the total number of books and print it.
+// A library has 840 books. 160 new books are added. Use += to update the total number of books and print it.
 
-// // 1. Student marks
-// let marks = 200;
-// marks += 35;
-// console.log(marks);
+// 1. Student marks
+let marks = 200;
+marks += 35;
+console.log(marks);
 
-// // 2. Savings account
-// let balance = 5000;
-// balance += 1200;
-// console.log(balance);
+// 2. Savings account
+let balance = 5000;
+balance += 1200;
+console.log(balance);
 
-// // 3. Phone battery
-// let battery = 45;
-// battery += 30;
-// console.log(battery);
+// 3. Phone battery
+let battery = 45;
+battery += 30;
+console.log(battery);
 
-// // 4. Game player score
-// let score = 1250;
-// score += 375;
-// console.log(score);
+// 4. Game player score
+let score = 1250;
+score += 375;
+console.log(score);
 
-// // 5. Library books
-// let books = 840;
-// books += 160;
-// console.log(books);
+// 5. Library books
+let books = 840;
+books += 160;
+console.log(books);
 
 
 
@@ -95,30 +95,30 @@
 // // A game player has 2,000 points. He loses 625 points. Use -= to update the score and print it.
 
 
-// // 1. Water tank
-// let water = 1000;
-// water -= 375;
-// console.log(water);
+// 1. Water tank
+let water = 1000;
+water -= 375;
+console.log(water);
 
-// // 2. Student's money
-// let money = 500;
-// money -= 180;
-// console.log(money);
+// 2. Student's money
+let money = 500;
+money -= 180;
+console.log(money);
 
-// // 3. Phone battery
-// let battery2 = 90;
-// battery -= 45;
-// console.log(battery2);
+// 3. Phone battery
+let battery2 = 90;
+battery -= 45;
+console.log(battery2);
 
-// // 4. Warehouse boxes
-// let boxes = 2400;
-// boxes -= 950;
-// console.log(boxes);
+// 4. Warehouse boxes
+let boxes = 2400;
+boxes -= 950;
+console.log(boxes);
 
-// // 5. Game player score
-// let score2 = 2000;
-// score -= 625;
-// console.log(score2);
+// 5. Game player score
+let score2 = 2000;
+score -= 625;
+console.log(score2);
 
 
 
@@ -133,30 +133,30 @@
 // // A game score is 150. A bonus multiplies the score by 3. Use *= to update the score and print it.
 
 
-// // 1. Town population
-// let townPopulation = 5000;
-// townPopulation *= 3;
-// console.log(townPopulation);
+// 1. Town population
+let townPopulation = 5000;
+townPopulation *= 3;
+console.log(townPopulation);
 
-// // 2. Factory production
-// let dailyProduction = 120;
-// dailyProduction *= 4;
-// console.log(dailyProduction);
+// 2. Factory production
+let dailyProduction = 120;
+dailyProduction *= 4;
+console.log(dailyProduction);
 
-// // 3. Savings amount
-// let savingsAmount = 2000;
-// savingsAmount *= 2;
-// console.log(savingsAmount);
+// 3. Savings amount
+let savingsAmount = 2000;
+savingsAmount *= 2;
+console.log(savingsAmount);
 
-// // 4. Garden plants
-// let gardenPlants = 50;
-// gardenPlants *= 5;
-// console.log(gardenPlants);
+// 4. Garden plants
+let gardenPlants = 50;
+gardenPlants *= 5;
+console.log(gardenPlants);
 
-// // 5. Game score
-// let gameScore = 150;
-// gameScore *= 3;
-// console.log(gameScore);
+// 5. Game score
+let gameScore = 150;
+gameScore *= 3;
+console.log(gameScore);
 
 
 
@@ -172,30 +172,30 @@
 
 
 
-// // 1. Cloth length
-// let clothLength = 1200;
-// clothLength /= 4;
-// console.log(clothLength);
+// 1. Cloth length
+let clothLength = 1200;
+clothLength /= 4;
+console.log(clothLength);
 
-// // 2. Project budget
-// let projectBudget = 80000;
-// projectBudget /= 8;
-// console.log(projectBudget);
+// 2. Project budget
+let projectBudget = 80000;
+projectBudget /= 8;
+console.log(projectBudget);
 
-// // 3. Sugar quantity
-// let sugarQuantity = 960;
-// sugarQuantity /= 6;
-// console.log(sugarQuantity);
+// 3. Sugar quantity
+let sugarQuantity = 960;
+sugarQuantity /= 6;
+console.log(sugarQuantity);
 
-// // 4. Trip distance
-// let tripDistance = 450;
-// tripDistance /= 5;
-// console.log(tripDistance);
+// 4. Trip distance
+let tripDistance = 450;
+tripDistance /= 5;
+console.log(tripDistance);
 
-// // 5. Student marks
-// let studentMarks = 2500;
-// studentMarks /= 10;
-// console.log(studentMarks);
+// 5. Student marks
+let studentMarks = 2500;
+studentMarks /= 10;
+console.log(studentMarks);
 
 
 
@@ -207,30 +207,30 @@
 // // A loan runs for 365 months; find the months left after full years using %=.
 
 
-// // 1. Candies left
-// let candies = 137;
-// candies %= 10;
-// console.log(candies);
+// 1. Candies left
+let candies = 137;
+candies %= 10;
+console.log(candies);
 
-// // 2. Students left
-// let teamStudents = 250;
-// teamStudents %= 7;
-// console.log(teamStudents);
+// 2. Students left
+let teamStudents = 250;
+teamStudents %= 7;
+console.log(teamStudents);
 
-// // 3. Days left after full weeks
-// let projectDays = 1000;
-// projectDays %= 7;
-// console.log(projectDays);
+// 3. Days left after full weeks
+let projectDays = 1000;
+projectDays %= 7;
+console.log(projectDays);
 
-// // 4. Chairs left
-// let hallChairs = 89;
-// hallChairs %= 5;
-// console.log(hallChairs);
+// 4. Chairs left
+let hallChairs = 89;
+hallChairs %= 5;
+console.log(hallChairs);
 
-// // 5. Months left after full years
-// let loanMonths = 365;
-// loanMonths %= 12;
-// console.log(loanMonths);
+// 5. Months left after full years
+let loanMonths = 365;
+loanMonths %= 12;
+console.log(loanMonths);
 
 
 
@@ -240,18 +240,18 @@
 // // An image’s size factor is 3; find the total area growth factor using **=.
 
 
-// // 1. Square garden area
-// let gardenSide = 10;
-// gardenSide **= 2;
-// console.log(gardenSide);
+// 1. Square garden area
+let gardenSide = 10;
+gardenSide **= 2;
+console.log(gardenSide);
 
-// // 2. Cube box volume
-// let boxEdge = 4;
-// boxEdge **= 3;
-// console.log(boxEdge);
+// 2. Cube box volume
+let boxEdge = 4;
+boxEdge **= 3;
+console.log(boxEdge);
 
-// // 3. Image area growth factor
-// let imageFactor = 3;
-// imageFactor **= 2;
-// console.log(imageFactor);
+// 3. Image area growth factor
+let imageFactor = 3;
+imageFactor **= 2;
+console.log(imageFactor);
 
