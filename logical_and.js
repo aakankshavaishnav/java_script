@@ -19,12 +19,17 @@ console.log(0|| null || undefined || "" || NaN || false  || [] )
 // let isSignup = true;
 // let isAlreadyuser = false;
 // console.log('isAlreadyuser', isInactive) // false
+<<<<<<< HEAD
 git
+=======
+
+>>>>>>> fcb1e4e21a74abc19385978db91169562fb7fde6
 // let isSignup=true;
 // let isAlreadyser=false;
 // let is
 // console.log(1+1+"1")
 
+<<<<<<< HEAD
 let x=30;
 let y=--x;
 console.log(y,x)
@@ -36,6 +41,19 @@ console.log(lives)
 let name="alice"
 let age=45;
 console.log(typeof(age))
+=======
+// let x=30;
+// let y=--x;
+// console.log(y,x)
+
+// let lives=3;
+// lives--
+// console.log(lives)
+
+// let name="alice"
+// let age=45;
+// console.log(typeof(age))
+>>>>>>> fcb1e4e21a74abc19385978db91169562fb7fde6
 
 
 // // Basic types
