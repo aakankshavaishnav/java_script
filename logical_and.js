@@ -2,40 +2,40 @@
 
 // let emailVerified = true;
 // let phoneVerified = false;
-// let isMatch=emailVerified||phoneVerified
+// let isMatch=emailVerified&&phoneVerified
 // console.log(isMatch)
 // let condition1=(null>0)
 
-// question=10
-// let hasPurchased=true;
-// let newUser=false;
-// let specialOffer=hasPurchased||newUser
-// console.log(specialOffer)
+question=10
+let hasPurchased=true;
+let newUser=false;
+let specialOffer=hasPurchased&&newUser
+console.log(specialOffer)
 
 // #questionnn
 
-// console.log(0|| null || undefined || "" || NaN || false  || [] )
+console.log(0|| null || undefined || "" || NaN || false  || [] )
 // show signup button if usser is not only loged 
-// let isSignup = true;
-// let isAlreadyuser = false;
-// console.log('isAlreadyuser', isInactive) // false
+let isSignup = true;
+let isAlreadyuser = false;
+console.log('isAlreadyuser', isInactive) // false
 
-// let isSignup=true;
-// let isAlreadyser=false;
-// let is
-// console.log(1+1+"1")
+let isSignup=true;
+let isAlreadyser=false;
+let is
+console.log(1+1+"1")
 
-// let x=30;
-// let y=--x;
-// console.log(y,x)
+let x=30;
+let y=--x;
+console.log(y,x)
 
-// let lives=3;
-// lives--
-// console.log(lives)
+let lives=3;
+lives--
+console.log(lives)
 
-// let name="alice"
-// let age=45;
-// console.log(typeof(age))
+let name="alice"
+let age=45;
+console.log(typeof(age))
 
 
 // // Basic types
