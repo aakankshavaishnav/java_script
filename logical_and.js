@@ -16,14 +16,14 @@ console.log(specialOffer)
 
 console.log(0|| null || undefined || "" || NaN || false  || [] )
 // show signup button if usser is not only loged 
-let isSignup = true;
-let isAlreadyuser = false;
-console.log('isAlreadyuser', isInactive) // false
-
-let isSignup=true;
-let isAlreadyser=false;
-let is
-console.log(1+1+"1")
+// let isSignup = true;
+// let isAlreadyuser = false;
+// console.log('isAlreadyuser', isInactive) // false
+git
+// let isSignup=true;
+// let isAlreadyser=false;
+// let is
+// console.log(1+1+"1")
 
 let x=30;
 let y=--x;
