@@ -113,15 +113,15 @@
 //     console.log(bag);
 // }
 
-let row=4
-let colum=4
-let matrix=[];
-let arr=[];
-for(let j=0;j<colum;j++){
-    let cellvalue=(i+j)*(j+1){
+// let row=4
+// let colum=4
+// let matrix=[];
+// let arr=[];
+// for(let j=0;j<colum;j++){
+//     let cellvalue=(i+j)*(j+1){
 
     
-    arr[j]=cellvalue
-    }
-matrix.push(arr)
-}
+//     arr[j]=cellvalue
+//     }
+// matrix.push(arr)
+// }
