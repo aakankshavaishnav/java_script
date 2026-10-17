@@ -34,6 +34,55 @@ function teacher() {
 // second();
 // ques-5
 
-function {
-    
+var global = "coco";
+function marks(){
+    var local = "I am lilly";
+    console.log(global);
+    console.log(local);
+}
+marks();
+console.log(global);
+
+// ques-6
+var game = "Cricket";
+function play() {
+    console.log("I like " + game);
+}
+play();
+console.log(game);
+
+// ques-7
+var language = "English";
+function showLanguage() {
+    console.log(language);
+}
+function changeLanguage() {
+    language = "Gujarati";
+}
+showLanguage();
+changeLanguage();
+showLanguage();
+console.log(language);
+
+// ques=8
+function displayMarks() {
+    console.log(marks);
+}
+var marks = 75;
+displayMarks();
+
+// ques=9
+var color = "Red";
+function showColor() {
+    var message = "Favorite color: ";
+    console.log(message + color);
+}
+showColor();
+console.log(color);
+console.log(message);
+
+// ques=10
+var school="sunshine school";
+function showschool(){
+    var massage=""
 }

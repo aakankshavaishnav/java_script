@@ -51,3 +51,7 @@ if (true) {
     var x = 30;
 }
 console.log(x);
+
+
+greet();
+var greet =function
