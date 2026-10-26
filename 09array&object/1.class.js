@@ -20,51 +20,14 @@ let colourr=["red","blue","maroon"]
 console.log(colourr.length)
 
 // looping through arrays
-let name=["coco","jennei","rubi"]
-for (let i = 0; i < name.length; i++) {
+let name=["coco","jennei","rubi","piyy"]
+for (let i=0;i<=coco.lenght-1;i++){  //to make dynamic our code we can use (coco.lenght-1 )
     console.log(name[i])
 }
 
-// for of loop
-// =================SYNTAX=================
-// for(const 'variable' 'of' interable){
-    // code}
+// create array of 5 students 
+let studentName = ["a", "b", "c", "d", "e"];
 
-const studentNames =["janvi","coco","lily","flower"]
-for (const eachStudent of studentNames) {
-    console.log(eachStudent)
+for (let i = 0; i <= 5; i++) {
+    console.log(studentName[i]);
 }
-
-// adding eleements 0f array
-// 1. push ()=adding elements at the end of an Array
-// 2. unshift()=adding of element at the bigging of an arrray
-// return length of array
-let nums=[4,5,6]
-let lens=nums.push(10);
-console.log(nums,lens)
-
-// pop()=> remove last digit of array
-// shift ()=> remove the first element of ARRAY
-let num=[4,5,6]
-// num.pop()
-console.log(num.pop())
-
-// SEARCING IN ARRAY
-// INDEXOF=returns index of a value, or -1 if not found.
-
-let nam=["gay","gays","gayeass","gayy"]
-console.log(nam.indexOf("gay"))
-
-// ARRAY WITH MULTIPLE DATATYPES=JavaScript arrays can store mixed types.(MIXED ARRAY)
-let data = [100, "Hello", true, null];
-console.log(data[data.lenght-2])
-
-// 11. Array of Arrays (Matrix) – 2D Arrays
-// Used in tables, grids, games, and storing marks of multiple students.
-const matrix = [
-    [1, 2],
-    [3, 4],
-    [5, 6]
-];
-console.log(matrix[2][1]); // 6
-
